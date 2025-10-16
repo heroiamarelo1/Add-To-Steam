@@ -1,3 +1,5 @@
+![Alt text](https://github.com/username/repo/blob/main/images/exemple.png?raw=true)
+
 # Add to Steam
 This tool allows you to easly add your non-steam games to Steam automaticly, just by righ-clicking on shortcut on .exe file
 
