@@ -4,7 +4,7 @@
 This tool allows you to easly add your non-steam games to Steam automaticly, just by righ-clicking on shortcut on .exe file and pressing "Add to Steam Library"
 
 
-1) Run add_to_steam_context.exe
+1) Run add_to_steam.exe
 It will create a .reg file on the same folder (this file will create the context menu)
 2) Run the created .reg file
 
