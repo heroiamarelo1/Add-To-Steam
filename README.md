@@ -1,7 +1,7 @@
 ![Example GIF](Images/examplewin.gif)
 
 # Add to Steam
-This tool allows you to easly add your non-steam games to Steam automaticly, just by righ-clicking on shortcut on .exe file
+This tool allows you to easly add your non-steam games to Steam automaticly, just by righ-clicking on shortcut on .exe file and pressing "Add to Steam Library"
 
 
 1) Run add_to_steam_context.exe
