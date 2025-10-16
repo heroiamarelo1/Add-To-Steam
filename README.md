@@ -18,3 +18,5 @@ After installing a shortcut you can press it again to remove the shortcut instea
 I made this with the help of ChatGPT and Gemini.
 This program is open source.
 Do whatever you want with it. lol
+
+![Example](Images/howitworks.png)
