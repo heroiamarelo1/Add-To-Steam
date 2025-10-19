@@ -8,7 +8,7 @@ This tool allows you to easly add your non-steam games to Steam automaticly, jus
 It will create a .reg file on the same folder (this file will create the context menu)
 2) Run the created .reg file
 
-Pressing it again will remove the shortcut.
+And it's working! Pressing the option a second time will remove the shortcut.
 
 If you have multiple Steam accounts you will need to select one from the list.
 To discover your account ID visit https://steamid.io/
